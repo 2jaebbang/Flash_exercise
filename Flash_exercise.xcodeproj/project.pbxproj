@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		432A39E725C1E5AF00F7EC6D /* switch.wav in Resources */ = {isa = PBXBuildFile; fileRef = 432A39E625C1E5AF00F7EC6D /* switch.wav */; };
 		43CF968125C1D6EA001DCF33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CF968025C1D6EA001DCF33 /* AppDelegate.swift */; };
 		43CF968325C1D6EA001DCF33 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CF968225C1D6EA001DCF33 /* SceneDelegate.swift */; };
 		43CF968525C1D6EA001DCF33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CF968425C1D6EA001DCF33 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		432A39E625C1E5AF00F7EC6D /* switch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = switch.wav; path = ../../../../Downloads/Resource/Sound/switch.wav; sourceTree = "<group>"; };
 		43CF967D25C1D6EA001DCF33 /* Flash_exercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flash_exercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43CF968025C1D6EA001DCF33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43CF968225C1D6EA001DCF33 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				43CF968925C1D6EB001DCF33 /* Assets.xcassets */,
 				43CF968B25C1D6EB001DCF33 /* LaunchScreen.storyboard */,
 				43CF968E25C1D6EB001DCF33 /* Info.plist */,
+				432A39E625C1E5AF00F7EC6D /* switch.wav */,
 			);
 			path = Flash_exercise;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				432A39E725C1E5AF00F7EC6D /* switch.wav in Resources */,
 				43CF968D25C1D6EB001DCF33 /* LaunchScreen.storyboard in Resources */,
 				43CF968A25C1D6EB001DCF33 /* Assets.xcassets in Resources */,
 				43CF968825C1D6EA001DCF33 /* Main.storyboard in Resources */,
